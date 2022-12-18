@@ -4,7 +4,7 @@
 
 ![Profile views](https://gpvc.arturio.dev/Debanjan-San)  ![Last Modified](https://img.shields.io/github/last-commit/Debanjan-San/Debanjan-San?style=flat)
 
-> My life is an infinite loop of undefined stuff 
+> My life is an infinite loop of undefined errors 
 
 ### Primary Language 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
