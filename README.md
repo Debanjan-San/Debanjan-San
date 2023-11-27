@@ -13,6 +13,12 @@
 
 - ⚡ Fun fact **I like to solve logical problems**
 
+- 🆒 Intrest **Love Japanese songs and culture**
+
+- 🗳 Location **From Kolkata hoping to settle in Japan** 🇯🇵 
+
+- 👤 Profession **Student**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/das_abae" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="das_abae" height="30" width="40" /></a>
