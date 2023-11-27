@@ -33,9 +33,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Debanjan-San&" alt="Debanjan-San" /></p>
 
-
-- Love Japanese songs 💮
-- From Kolkata hoping to settle in Japan 🇯🇵 
-- Student 👨‍🎓 
-- Age 16 Birthday August 6th 
-- Love to learn logical stuff 
