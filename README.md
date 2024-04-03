@@ -26,7 +26,8 @@ High school? Nah, that wasn't exactly my scene. But hey, gotta get my electrical
 ## **📊 Github Stats**
 <p align="center">
   <img width="50%" src="https://github-readme-stats.vercel.app/api?username=Debanjan-San&show_icons=true&count_private=true&theme=react-dark&hide_border=true&bg_color=0d1117" />
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Debanjan-San&show_icons=true&count_private=true&theme=react-dark&hide_border=true&bg_color=0d1117&layout=compact" />
+  <img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Debanjan-San&show_icons=true&count_private=true&theme=react-dark&hide_border=true&bg_color=0d1117&layout=compact" />
+  <img src="https://github-profile-trophy.vercel.app/?username=debanjan-san" alt="debanjan-san" />
 </p>
 
 
@@ -37,7 +38,7 @@ High school? Nah, that wasn't exactly my scene. But hey, gotta get my electrical
     <img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=316a2hwjc4ui5p2s5jdag6n325um&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=false">
   </a>
   <a href="https://open.spotify.com/user/316a2hwjc4ui5p2s5jdag6n325um">
-    <img width="525" src="https://spotify-recently-played-readme.vercel.app/api?user=316a2hwjc4ui5p2s5jdag6n325um">
+    <img width="485" src="https://spotify-recently-played-readme.vercel.app/api?user=316a2hwjc4ui5p2s5jdag6n325um">
   </a>
 </p>
 
@@ -52,13 +53,12 @@ High school? Nah, that wasn't exactly my scene. But hey, gotta get my electrical
 <br>
 
 ## **📫 Contact**
-<a href="https://github.com/Debanjan-San"><img align="right" width="100"
-src="https://animesher.com/orig/1/135/1356/13560/animesher.com_evolution-manga-haunter-1356099.gif" /></a>
-**Please Contact me on WhatsApp for a quick response:** [Debanjan-San](https://api.whatsapp.com/send/?phone=917842346461&text=Hello%20Debanjan-San!%20%F0%9F%8D%B7&type=+917003213983&app_absent=0)
+**Please Contact me on WhatsApp for a quick response:** [Debanjan](https://api.whatsapp.com/send/?phone=917003213983&text=Hello%20Debanjan!%20%F0%9F%8D%B7&type=phone_number&app_absent=0)
 
 **You can also email me here:** debanjan07@outlook.com
 
 <!--<a href="https://github.com/Meghna-DAS/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=Debanjan-San">-->
+[![](https://komarev.com/ghpvc/?username=debanjan-san&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/Debanjan-San)
 [![](https://img.shields.io/github/followers/Debanjan-San?label=Followers&style=social&color=purple)](https://github.com/Debanjan-San)
 [![](https://img.shields.io/badge/Mail-D14836?logo=gmail&logoColor=white&color=purple)](mailto:debanjan07@outlook.com)
 
