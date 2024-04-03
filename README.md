@@ -13,9 +13,9 @@
 **`A passionate backend developer from India`** 
 
 ## **☕ About me**
-<a href="https://github.com/Debanjan-San"><img align="left" width="100" src="https://i.ibb.co/FzMg9zB/Toji-removebg-preview.png"></a>
+<a href="https://github.com/Debanjan-San"><img align="left" width="70" src="https://i.ibb.co/FzMg9zB/Toji-removebg-preview.png"></a>
 Debanjan Das: By day, I'm a code-slinging ninja. When night falls, I dominate the FPS realm. And in the moments between, I craft edits that'd make Doc Ock green with envy! ```≖‿≖```
-<br><br><br><br>
+<br><br>
 
 ## **💻 Experience**
 <a href="https://github.com/Debanjan-San">
