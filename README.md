@@ -14,7 +14,7 @@
 
 ## **☕ About me**
 <a href="https://github.com/Debanjan-San"><img align="left" width="70" src="https://i.ibb.co/Dk3RtQM/Megumi-Fushiguro.webp"></a>
-Debanjan Das: Backend dev by day, FPS master by night, and a photo/video editing in between! <br><br>
+Debanjan Das: By day, I'm a code-slinging ninja. When night falls, I dominate the FPS realm. And in the moments between, I craft edits that'd make Doc Ock green with envy! <br><br>
 
 ## **💻 Experience**
 <a href="https://github.com/Debanjan-San">
