@@ -1,28 +1,64 @@
-<h1 align="center">Hi 👋, I'm Debanjan Das</h1>
-<h3 align="center">A passionate backend developer from India</h3>
+<div align="center">
+	
+![](https://typograssy.deno.dev/api?text=あなたは神にとって最も完璧な武器です。!&l1=216e39&l4=a3f0b0&bg=none&frame=none&speed=100&comment=)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=debanjan-san&label=Profile%20views&color=0e75b6&style=flat" alt="debanjan-san" /> </p>
+</div>
+<a href="https://www.instagram.com/das_abae/">
+  <img align="right" width="65" src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/152.gif">
+</a>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=debanjan-san" alt="debanjan-san" /></a> </p>
 
-- 🔭 I’m currently working on **my social skills**
+### **Hi 👋, I'm Debanjan Das**
 
-- 🌱 I’m currently learning **Python**
+**`A passionate backend developer from India`** 
 
-- 💬 Ask me about **Javascript, typescript, python, java**
+## **☕ About me**
+<a href="https://github.com/Debanjan-San"><img align="left" width="100" src="https://i.ibb.co/FzMg9zB/Toji-removebg-preview.png"></a>
+Debanjan Das here, your friendly neighborhood backend dev! By day, I sling code, by night, I rule the FPS games! In my downtime, I spin photo and video edits that would make even Doc Ock jealous! ```≖‿≖```
+<br><br><br><br>
 
-- 📫 How to reach me **debanjan07@outlook.com**
+## **💻 Experience**
+<a href="https://github.com/Debanjan-San">
+<img align="right" width="100" src="https://shorturl.at/dhJ34"></a>
+High school? Nah, that wasn't exactly my scene. But hey, gotta get my electrical engineering diploma, gotta make that voltage work for me! Coding? Not my forte, but gotta expand my web, you know what I mean? Full-time, part-time, doesn't matter! Gotta swing some cash for the folks!. 🌐💻✨
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/das_abae" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="das_abae" height="30" width="40" /></a>
+
+## **📊 Github Stats**
+<p align="center">
+  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=Debanjan-San&show_icons=true&count_private=true&theme=react-dark&hide_border=true&bg_color=0d1117" />
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Debanjan-San&show_icons=true&count_private=true&theme=react-dark&hide_border=true&bg_color=0d1117&layout=compact" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://github.com/puppeteer/puppeteer" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pptrdev/pptrdev-official.svg" alt="puppeteer" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Debanjan-San&show_icons=true&locale=en&layout=compact" alt="debanjan-san" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Debanjan-San&show_icons=true&locale=en" alt="debanjan-san" /></p>
+## **🎧 Spotify**
+<p align="center">
+  <a href="https://spotify-github-profile.vercel.app/api/view.svg?uid=316a2hwjc4ui5p2s5jdag6n325um&redirect=true">
+    <img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=316a2hwjc4ui5p2s5jdag6n325um&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=false">
+  </a>
+  <a href="https://open.spotify.com/user/316a2hwjc4ui5p2s5jdag6n325um">
+    <img width="525" src="https://spotify-recently-played-readme.vercel.app/api?user=316a2hwjc4ui5p2s5jdag6n325um">
+  </a>
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Debanjan-San&" alt="Debanjan-San" /></p>
+
+## **🟪Profile Counter**
+<a href="https://github.com/Debanjan-San/"><img align="right" width=400 src="https://moe-counter.glitch.me/get/@Debanjan-San?theme=rule34"></a>
+<a href="https://github.com/Debanjan-San"><img align="left" width="100" src="https://64.media.tumblr.com/8f3d84d35802ef4681ff96f69fa187b1/tumblr_n6bu3cJbUA1raoul2o1_500.gifv"></a>
+
+```yaml
+おっす！俺のプロフィール見てるっすか？
+```
+<br>
+
+## **📫 Contact**
+<a href="https://github.com/Debanjan-San"><img align="right" width="100"
+src="https://animesher.com/orig/1/135/1356/13560/animesher.com_evolution-manga-haunter-1356099.gif" /></a>
+**Please Contact me on WhatsApp for a quick response:** [Debanjan-San](https://api.whatsapp.com/send/?phone=917842346461&text=Hello%20Debanjan-San!%20%F0%9F%8D%B7&type=+917003213983&app_absent=0)
+
+**You can also email me here:** debanjan07@outlook.com
+
+<!--<a href="https://github.com/Meghna-DAS/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=Debanjan-San">-->
+[![](https://img.shields.io/github/followers/Debanjan-San?label=Followers&style=social&color=purple)](https://github.com/Debanjan-San)
+[![](https://img.shields.io/badge/Mail-D14836?logo=gmail&logoColor=white&color=purple)](mailto:debanjan07@outlook.com)
+
