@@ -13,7 +13,7 @@
 **`A passionate backend developer from India`** 
 
 ## **☕ About me**
-<a href="https://github.com/Debanjan-San"><img align="left" width="70" src="https://i.ibb.co/FzMg9zB/Toji-removebg-preview.png"></a>
+<a href="https://github.com/Debanjan-San"><img align="left" width="75" src="https://i.ibb.co/Dk3RtQM/Megumi-Fushiguro.webp"></a>
 > Debanjan Das: Backend dev by day, FPS master by night, and a photo/video editing virtuoso in between! <br><br><br>
 
 ## **💻 Experience**
