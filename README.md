@@ -60,5 +60,6 @@ High school? Nah, that wasn't exactly my scene. But hey, gotta get my electrical
 <!--<a href="https://github.com/Meghna-DAS/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=Debanjan-San">-->
 [![](https://komarev.com/ghpvc/?username=debanjan-san&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/Debanjan-San)
 [![](https://img.shields.io/github/followers/Debanjan-San?label=Followers&style=social&color=purple)](https://github.com/Debanjan-San)
+[![Instagram](https://img.shields.io/badge/Instagram-@das_abae-orange?logo=instagram&logoColor=white)](https://www.instagram.com/das_abae/)
 [![](https://img.shields.io/badge/Mail-D14836?logo=gmail&logoColor=white&color=purple)](mailto:debanjan07@outlook.com)
 
