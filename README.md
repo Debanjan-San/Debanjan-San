@@ -15,8 +15,8 @@
 ## **☕ About me**
 <a href="https://github.com/Debanjan-San"><img align="left" width="70" src="https://i.ibb.co/FzMg9zB/Toji-removebg-preview.png"></a>
 Debanjan Das: Backend dev by day, FPS master by night, and a photo/video editing virtuoso in between!
-<!-- <br><br><br><br> -->
 
+$~~~~~~~~~~~$
 ## **💻 Experience**
 <a href="https://github.com/Debanjan-San">
 <img align="right" width="100" src="https://shorturl.at/dhJ34"></a>
@@ -49,7 +49,8 @@ Skipping high school, diving into electrical engineering to wield volts like a b
 ```yaml
 おっす！俺のプロフィール見てるっすか？
 ```
-<br>
+
+$~~~~~~~~~~~$
 
 ## **📫 Contact**
 **Please Contact me on WhatsApp for a quick response:** [Debanjan](https://api.whatsapp.com/send/?phone=917003213983&text=Hello%20Debanjan!%20%F0%9F%8D%B7&type=phone_number&app_absent=0)
