@@ -14,14 +14,13 @@
 
 ## **☕ About me**
 <a href="https://github.com/Debanjan-San"><img align="left" width="100" src="https://i.ibb.co/FzMg9zB/Toji-removebg-preview.png"></a>
-Debanjan Das here, your friendly neighborhood backend dev! By day, I sling code, by night, I rule the FPS games! In my downtime, I spin photo and video edits that would make even Doc Ock jealous! ```≖‿≖```
+Debanjan Das: By day, I'm a code-slinging ninja. When night falls, I dominate the FPS realm. And in the moments between, I craft edits that'd make Doc Ock green with envy! ```≖‿≖```
 <br><br><br><br>
 
 ## **💻 Experience**
 <a href="https://github.com/Debanjan-San">
 <img align="right" width="100" src="https://shorturl.at/dhJ34"></a>
-High school? Nah, that wasn't exactly my scene. But hey, gotta get my electrical engineering diploma, gotta make that voltage work for me! Coding? Not my forte, but gotta expand my web, you know what I mean? Full-time, part-time, doesn't matter! Gotta swing some cash for the folks!. 🌐💻✨
-
+Skipping high school, diving into electrical engineering to wield volts like a boss. Coding? Not my forte, but I'm weaving webs online. Full-time, part-time, all to hustle for the fam!
 
 ## **📊 Github Stats**
 <p align="center">
