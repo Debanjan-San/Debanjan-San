@@ -23,7 +23,7 @@ Skipping high school, diving into electrical engineering to wield volts like a b
 
 ## **📊 Github Stats**
 <p align="center">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=Debanjan-San&show_icons=true&count_private=true&theme=react-dark&hide_border=true&bg_color=0d1117" />
+  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=Debanjan-San&count_private=true&show_icons=true&text_color=296ecb&icon_color=296ecb&border_color=000000&bg_color=0d1117&cache_seconds=1800" />
   <img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Debanjan-San&show_icons=true&count_private=true&theme=react-dark&hide_border=true&bg_color=0d1117&layout=compact" />
   <img src="https://github-profile-trophy.vercel.app/?username=debanjan-san" alt="debanjan-san" />
 </p>
@@ -32,12 +32,13 @@ Skipping high school, diving into electrical engineering to wield volts like a b
 
 ## **🎧 Spotify**
 <p align="center">
-  <a href="https://spotify-github-profile.vercel.app/api/view.svg?uid=316a2hwjc4ui5p2s5jdag6n325um&redirect=true">
-    <img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=316a2hwjc4ui5p2s5jdag6n325um&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=false">
-  </a>
   <a href="https://open.spotify.com/user/316a2hwjc4ui5p2s5jdag6n325um">
-    <img width="485" src="https://spotify-recently-played-readme.vercel.app/api?user=316a2hwjc4ui5p2s5jdag6n325um">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=316a2hwjc4ui5p2s5jdag6n325um&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false">
   </a>
+<br>
+ <a href="https://open.spotify.com/user/316a2hwjc4ui5p2s5jdag6n325um">
+  <img width="480" src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=316a2hwjc4ui5p2s5jdag6n325um" alt="Data Card for Spotify">
+</a>
 </p>
 
 
